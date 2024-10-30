@@ -23,7 +23,7 @@ Snapshots of project UI:![db1](https://github.com/user-attachments/assets/518c4f
 
 ![col](https://github.com/user-attachments/assets/a02234b8-6951-4a2a-83e6-73d9ef18460a)
 
-![li](https://github.com/user-attachments/assets/6cf834e6-020a-47aa-ad6c-c233cd395ac3)
+
 
 
 
